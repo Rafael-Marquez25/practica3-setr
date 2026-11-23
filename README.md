@@ -12,7 +12,7 @@ Se han utilizado los componentes del kit: Arduino UNO, LCD paralelo de 16 × 2, 
 
 ### Esquema orientativo
 
-![Esquema orientativo del circuito en Fritzing](img/Untitled%20Sketch%202_bb.png)
+![Esquema orientativo del circuito en Fritzing](img/circuito.png)
 
 El esquema se ha empleado como apoyo al diseño y **no reproduce exactamente los componentes ni todas las conexiones finales**. La asignación de señales utilizada es la siguiente:
 
